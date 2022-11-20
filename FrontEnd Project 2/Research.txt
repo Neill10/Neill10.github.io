@@ -1,0 +1,28 @@
+Helpful Links:
+https://www.upgrad.com/blog/top-challenges-in-artificial-intelligence/#:~:text=One%20of%20the%20biggest%20artificial,to%20utilize%20those%20resources%20effectively.
+https://www.spiceworks.com/tech/artificial-intelligence/guest-article/top-10-ai-development-and-implementation-challenges/
+https://medium.com/infinitethoughts/the-big-5-ai-problems-f625adf299a
+https://builtin.com/artificial-intelligence/examples-ai-in-industry
+
+Technology in the modern age has advanced to the point where they are replaced many human jobs. (even art)
+Many programs have become so complicated that they are able to create art. Dall E and MidJourney
+
+What is Artificial Intelligence?
+Artificial Intelligence refers to any program that perceives in its environment to maximize the chance at achieving their goals.
+A few well known examples that include AI applications are advanced search engines(Google), recommendation systems(Youtube,Netflix), human speech recognition(Alexa), self driving cars(Tesla) and chess engines(Deep Blue).
+
+AI is very sophisticated and expensive to create and the resources needed are unavailable in the majority of businesses.
+Besides the big companies like APPLE, AMAZON, GOOGLE, ETC. this technology is underused.
+
+General Problem:
+While Advances in Ai/Machines can led to more efficieny, it raised a lot of ethical concerns. Art AI for example is fed a huge database of images to create images. 
+While they can produce beautiful pictures, the ethnical concerns that this raises is whether it can be copyrighted. The artists of some images that go into these databases were not notified and the images not given consent.
+Would the creator of these AI programs be entitled to the images they create? 
+
+The way AI works is also not understood by the public.
+privacy, bias,inequality, safety, security
+
+Index Page should explain how AI works
+Benefits should show how they can be benficial to people
+Dangers should list things that AI can harm humans
+More would be examples of AIs in a table.

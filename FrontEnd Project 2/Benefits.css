@@ -1,0 +1,97 @@
+body{
+    background-color: #1d1d1d;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}
+
+
+/*highlights which page user is one */
+.active {
+    background-color: #1a79b9;
+}
+
+.navbar{
+    right:0;
+    background-color: #333;
+    padding: 0; 
+}
+
+.header{
+    text-align: center;
+}
+
+.main{
+    background-color: #04003f;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2% ;
+}
+
+.intro p , .intro h4{
+    font-size: 25px;
+    margin: 1%;
+}
+
+
+.picture{
+    display: flex;
+    justify-content: center;
+}
+
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.gallery p{
+    background-color: whitesmoke;
+    color: #333;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.gallery img{
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+}
+
+.gallery div{
+    text-align: center;
+    
+}
+    
+footer{
+    font-size: 20px;
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(55, 35, 98);
+    color: rgb(126, 95, 95);
+    text-align: center;
+}
