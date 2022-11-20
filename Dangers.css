@@ -67,7 +67,28 @@ li a:hover {
     display: flex;
     justify-content: center;
 }
+h2{
+    color: orange;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: #db3a34 ;
+}
+.quote{
+    text-shadow: black 5px 5px;
 
+}
+/*
+.source{
+    text-shadow: none;
+    font-size: 17px;
+    text-align: right;
+    width: 95%;
+}
+*/
 footer{
     font-size: 20px;
     position: static;

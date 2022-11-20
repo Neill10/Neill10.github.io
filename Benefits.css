@@ -67,8 +67,8 @@ li a:hover {
 }
 
 .gallery p{
-    background-color: whitesmoke;
-    color: #333;
+    background-color: 04003f;
+    color: white;
     margin: 0;
     border: 0;
     padding: 0;
@@ -84,7 +84,13 @@ li a:hover {
     text-align: center;
     
 }
-    
+h2{
+    color: orange;
+}
+
+h4{
+    text-align: center;
+}
 footer{
     font-size: 20px;
     position: static;
