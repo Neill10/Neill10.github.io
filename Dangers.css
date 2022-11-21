@@ -67,6 +67,7 @@ li a:hover {
     display: flex;
     justify-content: center;
 }
+
 h2{
     color: orange;
 }
@@ -77,8 +78,34 @@ h4{
     text-align: center;
     color: #db3a34 ;
 }
+.table_container{
+    justify-content: center;
+}
+
+.table_container{
+    display: flex;
+    justify-content: center;
+}
+.table_container td{
+    border: green 2px solid;
+}
+.table_container a{
+    padding: 6px;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    color: green;
+}
+
 .quote{
     text-shadow: black 5px 5px;
+}
+.deepfake_wrapper{
+    display: flex;
+    align-items: center;
+}
+#deepfake{
+    height: 500px;
 
 }
 /*
@@ -89,13 +116,40 @@ h4{
     width: 95%;
 }
 */
+.split{
+    display: flex;
+
+}
+.vertical_br{
+    max-height: 500px;
+    width: 10px;
+    border: green solid 2px;
+    background-color: green;
+    margin: 1%;
+    border-radius: 2rem;
+}
+.surveillance{
+    display: flex;
+    justify-content: center;
+}
+#surveillance{
+    height: 250px;
+}
+
+.dangers p{
+    font-size: 20px;
+}
 footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 20px;
     position: static;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(55, 35, 98);
+    background-color: #333;
     color: rgb(126, 95, 95);
     text-align: center;
+    height: 100px;
 }

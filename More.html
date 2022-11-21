@@ -28,36 +28,55 @@
     </div>
     <div class="main">
         <div>
-            <h2>More</h2>
+            <h2>FeedBack</h2>
+            <div>
+                <form action="https://getform.io/f/8a8f122a-77c4-4265-aab5-e6d7ce1de3b9" method="POST">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" placeholder="Full Name ...">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email"placeholder="Email ...">
+                    <!-- textarea -->
+                    <label for="textarea1">
+                        Some ways to keep safe from malicious uses of AI is become better informed about the different uses of AI or how they are implemented.
+                        What are other ways can you suggest to keep safe from these dangers?
+                    </label>
+                    <textarea id = "textarea1" name="textarea" rows="5" cols="40" placeholder="Type your answer ..."></textarea>
+                    <!-- add hidden Honeypot input to prevent spams -->
+                    <input type="hidden" name="_gotcha" style="display:none !important">
+
+                    <!-- radio button -->
+                    <label>What do you think of AI currently?</label>
+                    <br>
+                    <input id="rating1" type="radio" name="rating" value="good" checked>
+                    <label value="good">good</label>
+                    <input id="rating2" type="radio" name="rating" value="bad">
+                    <label value="bad">bad</label>
+                    <input id="rating3" type="radio" name="rating" value="mixed">
+                    <label value="mixed">mixed</label>
+                    <br>
+                    <label for="textarea2">
+                        Do you think AI will have achieve more good or bad in the future?
+                    </label>
+                    <textarea id = "textarea2" name="textarea" rows="5" cols="40" placeholder="Type your answer ..."></textarea>
+                    <!-- add hidden Honeypot input to prevent spams -->
+                    <input type="hidden" name="_gotcha" style="display:none !important">
+                    <div id="submit_wrapper">
+                    <button id="submit" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
             <article>
                 <div class="intro">
                     <p>
-
+                        
                     </p>
-                    <div class="picture">
-                        <img id = "steeringWheel" src="" alt="sample pic">
-                    </div>
-                    <tr>
-                        <td>bruh</td>
-                        <td>hello</td>
-                    </tr>
-                    
-                    <tr>
-                        <td>world</td>
-                        <td></td>
-                    </tr>
-                    
-                    <tr>
-                        <td></td>
-                        <td></td>
-                    </tr>
                 </div>
             </article>
         </div>
     </div>
     <footer>
         <div>
-            COPYRIGHT&copy Neil Liu
+            COPYRIGHT 2022 &copy Neil Liu
         </div>
     </footer>
 </body>
