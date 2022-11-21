@@ -153,3 +153,26 @@ footer{
     text-align: center;
     height: 100px;
 }
+
+@media  screen and (max-width: 780px)
+{
+    .main{
+        margin:0;
+    }
+    .split{
+        display: contents;
+    }
+    .vertical_br{
+        width: auto;
+        border: green solid 2px;
+        background-color: green;
+        margin: 1%;
+        border-radius: 2rem;
+    }
+    .surveillance{
+        display: flex;
+        justify-content: center;
+    }
+
+
+}

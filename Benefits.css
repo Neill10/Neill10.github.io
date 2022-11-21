@@ -84,6 +84,11 @@ li a:hover {
     text-align: center;
     
 }
+.benefitsList li{
+    float: none;
+    background-color: #04003f;
+    font-size: 20px;
+}
 h2{
     color: orange;
 }
@@ -104,4 +109,15 @@ footer{
     color: rgb(126, 95, 95);
     text-align: center;
     height: 100px;
+}
+
+@media  screen and (max-width: 780px)
+{
+    .main{
+        margin:0;
+    }
+    .gallery{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }
